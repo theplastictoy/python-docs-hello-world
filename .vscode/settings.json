@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "c:\\Users\\rifiel\\repos\\_github_mine\\python-docs-hello-world\\.env\\Scripts\\python.exe",
+    "azureFunctions.deploySubpath": "python-docs-hello-world.zip",
+    "azureFunctions.pythonVenv": ".env",
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~2",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "func: pack"
+}
